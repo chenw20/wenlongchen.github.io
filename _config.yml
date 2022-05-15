@@ -11,7 +11,7 @@ title                    : "Wenlong Chen"
 title_separator          : "-"
 name                     : &name "Wenlong Chen"
 description              : &description "personal description"
-url                      : https://wenlongchen.github.io
+url                      : https://chenw20.github.io/wenlongchen.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "chenw20/wenlongchen.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
