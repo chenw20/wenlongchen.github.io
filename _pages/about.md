@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a 1st-year PhD student in Machine Learning at Imperial College London, supervised by [Yingzhen Li](http://yingzhenli.net/home/en/). I obtained my MPhil degree in Machine Learning and Machine Intelligence from the University of Cambridge in 2020. Before that, I graduated with a BSc (Hons) in Mathematics and Statistics from McMaster University. I study uncertainty quantification, Bayesian deep learning and approximate inference
+I am a 2nd-year PhD student in Machine Learning at Imperial College London, supervised by [Yingzhen Li](http://yingzhenli.net/home/en/). I obtained my MPhil degree in Machine Learning and Machine Intelligence from the University of Cambridge in 2020. Before that, I graduated with a BSc (Hons) in Mathematics and Statistics from McMaster University. I study uncertainty quantification, Bayesian deep learning and approximate inference
 
 <br>
 
