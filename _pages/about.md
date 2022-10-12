@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a 2nd-year PhD student in Machine Learning at Imperial College London, supervised by [Yingzhen Li](http://yingzhenli.net/home/en/). I obtained my MPhil degree in Machine Learning and Machine Intelligence from the University of Cambridge in 2020, supervised by [José Miguel Hernández-Lobato](https://jmhl.org/). Before that, I graduated with a BSc (Hons) in Mathematics and Statistics from McMaster University. During my PhD, I will mainly study uncertainty estimation, Bayesian deep learning and approximate inference. In general, I am also interested in probabilistic graphical model design, causality and explainable AI. I aim to develop reliable algorithms with improved generalization, robustness and interpretability.
+I am a 2nd-year PhD student in Machine Learning at Imperial College London, supervised by [Yingzhen Li](http://yingzhenli.net/home/en/). I obtained my MPhil degree in Machine Learning and Machine Intelligence from the University of Cambridge in 2020, supervised by [José Miguel Hernández-Lobato](https://jmhl.org/). Before that, I graduated with a BSc (Hons) in Mathematics and Statistics from McMaster University. 
+
+During my PhD, I will mainly study uncertainty estimation, Bayesian deep learning and approximate inference. In general, I am also interested in probabilistic graphical model design, causality and explainable AI. I aim to develop reliable algorithms with improved generalization, robustness and interpretability.
 
 <br>
 
