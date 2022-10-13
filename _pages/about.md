@@ -18,5 +18,7 @@ Publication
 ======
 * Andrew Campbell\*, **Wenlong Chen**\*, Vincent Stimper\*, Jose Miguel Hernandez-Lobato, Yichuan Zhang. A Gradient Based Strategy for Hamiltonian Monte Carlo Hyperparameter Optimization. ICML 2021 [`[pdf]`](http://proceedings.mlr.press/v139/campbell21a/campbell21a.pdf) 
 
+\*equal contribution
+
 <br>
 ---
