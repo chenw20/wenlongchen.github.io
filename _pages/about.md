@@ -28,6 +28,6 @@ Publication
 
 Contact
 ======
-Feel free to reach out to me at wenlong.chen21 (at) imperial.ac.uk
+Feel free to reach out to me at *wenlong.chen21 (at) imperial.ac.uk*
 
 ---
