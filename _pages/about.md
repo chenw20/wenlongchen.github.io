@@ -25,4 +25,9 @@ Publication
  \*equal contribution
 
 <br>
+
+Contact
+======
+Feel free to reach out to me at wenlong.chen21 (at) imperial.ac.uk
+
 ---
