@@ -12,7 +12,7 @@ I am a 3rd-year PhD student in Machine Learning at Imperial College London, supe
 
 During my PhD, I mainly study uncertainty calibration, robustness in large-scale machine learning models and generative modelling. In general, I am also interested in sequence models, explainable AI and probabilistic model design. I aim to develop reliable algorithms with improved generalization, robustness and interpretability.
 
-I am currently working as a research intern in the Responsible AI team at [ByteDance](https://www.bytedance.com/) in London, where I research on machine learning fairness.
+From June to November 2023, I worked as a research intern in the Responsible AI team at [ByteDance](https://www.bytedance.com/) in London, where I research on machine learning fairness.
 
 <br>
 
