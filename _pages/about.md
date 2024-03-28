@@ -10,7 +10,7 @@ redirect_from:
 
 I am a 3rd-year PhD student in Machine Learning at Imperial College London, supervised by [Yingzhen Li](http://yingzhenli.net/home/en/). I obtained my MPhil degree in Machine Learning and Machine Intelligence from the University of Cambridge in 2020, supervised by [José Miguel Hernández-Lobato](https://jmhl.org/). Before that, I graduated with a BSc (Hons) in Mathematics and Statistics from McMaster University. 
 
-During my PhD, I mainly study uncertainty estimation, robustness in large-scale deep learning models, and generative models. In general, I am also interested in sequence models and probabilistic model design. I aim to develop reliable algorithms with improved calibration, generalization, and robustness.
+During my PhD, I mainly work on uncertainty estimation, robustness in large-scale deep learning models, and generative models. In general, I am also interested in sequence models and probabilistic model design. I aim to develop reliable algorithms with improved calibration, generalization, and robustness.
 
 From June to November 2023, I worked as a research intern in the Responsible AI team at [ByteDance](https://www.bytedance.com/) in London, where I researched on machine learning fairness.
 
