@@ -12,7 +12,7 @@ I am a 3rd-year PhD student in Machine Learning at Imperial College London, supe
 
 During my PhD, I mainly work on uncertainty estimation, robustness in large-scale deep learning models, and generative models. In general, I am also interested in sequence models and probabilistic model design. I aim to develop reliable algorithms with improved uncertainty estimation, generalization, and robustness.
 
-From June to November 2023, I worked as a research intern in the Responsible AI team at [ByteDance](https://www.bytedance.com/) in London, where I researched on machine learning fairness.
+Currently, I am working as a research intern in the [Approximate Bayesian Inference team](https://aip.riken.jp/labs/generic_tech/approx_bayes_infer/?lang=en) at RIKEN in Tokyo with [Thomas Moellenhoff](https://moellenh.github.io) and [Emtiyaz Khan](https://emtiyaz.github.io). From June to November 2023, I worked as a research intern in the Responsible AI team at [ByteDance](https://www.bytedance.com/) in London, where I researched on machine learning fairness.
 
 <br>
 
