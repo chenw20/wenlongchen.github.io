@@ -28,11 +28,17 @@ An up-to-date list of publications can be found on my [Google Scholar](https://s
 
 <br>
 
-Scientific Activities
+Activities
 ======
+Organizer
+-----
 I have been involved in the organization of the workshop: [2nd UNCV at ICCV 2023](https://uncertainty-cv.github.io/2023/)
 
+Reviewer
+-----
+NeurIPS, ICML, AISTATS, TMLR.
 <br>
+
 
 Contact
 ======
