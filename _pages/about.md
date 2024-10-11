@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a 3rd-year PhD student in Machine Learning at Imperial College London, supervised by [Yingzhen Li](http://yingzhenli.net/home/en/). I obtained my MPhil degree in Machine Learning and Machine Intelligence from the University of Cambridge in 2020, supervised by [José Miguel Hernández-Lobato](https://jmhl.org/). Before that, I graduated with a BSc (Hons) in Mathematics and Statistics from McMaster University. 
+I am a final-year PhD student in Machine Learning at Imperial College London, supervised by [Yingzhen Li](http://yingzhenli.net/home/en/). I obtained my MPhil degree in Machine Learning and Machine Intelligence from the University of Cambridge in 2020, supervised by [José Miguel Hernández-Lobato](https://jmhl.org/). Before that, I graduated with a BSc (Hons) in Mathematics and Statistics from McMaster University. 
 
 During my PhD, I mainly work on uncertainty estimation, robustness in large-scale deep sequence models, and generative models. In general, I am also interested in probabilistic continual learning and meta-learning. I aim to develop reliable algorithms with improved uncertainty estimation, generalization, and robustness.
 
