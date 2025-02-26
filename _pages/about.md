@@ -24,6 +24,7 @@ An up-to-date list of publications can be found on my [Google Scholar](https://s
 
 * **Wenlong Chen**\*,  Naoki Kiyohara\*, Harrison Bo Hua Zhu\*, Yingzhen Li. Recurrent Memory for Online Interdomain Gaussian Processes. Preprint [`[link]`](https://arxiv.org/abs/2502.08736)
 * **Wenlong Chen**\*, Wenlin Chen\*, Lapo Rastrelli, Yingzhen Li. Your Image is Secretly the Last Frame of a Pseudo Video. Preprint [`[link]`](https://arxiv.org/abs/2410.20158)
+* **Wenlong Chen**\*, Bolian Li\*, Ruqi Zhang, Yingzhen Li. Bayesian Computation in Deep Learning. Preprint [`[link]`](https://arxiv.org/abs/2502.18300)
 * **Wenlong Chen**\*, Yegor Klochkov\*, Yang Liu. Post-hoc Bias Scoring Is Optimal For Fair Classification. ICLR 2024 (**spotlight**) [`[link]`](https://arxiv.org/abs/2310.05725)
 * **Wenlong Chen**, Yingzhen Li. Calibrating Transformers via Sparse Gaussian Processes. ICLR 2023 [`[link]`](https://arxiv.org/abs/2303.02444)
 * Andrew Campbell\*, **Wenlong Chen**\*, Vincent Stimper\*, Jose Miguel Hernandez-Lobato, Yichuan Zhang. A Gradient Based Strategy for Hamiltonian Monte Carlo Hyperparameter Optimization. ICML 2021 [`[link]`](https://proceedings.mlr.press/v139/campbell21a.html) 
