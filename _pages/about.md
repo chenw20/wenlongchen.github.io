@@ -45,7 +45,6 @@ Workshop
 
 Activities
 ======
-
 Organizer
 -----
 I have been involved in the organization of the workshop [2nd UNCV at ICCV 2023](https://uncertainty-cv.github.io/2023/), and the weekly Computational Statistics and Machine Learning [(CSML) Reading Group](https://imperialcollegelondon.github.io/csml-reading-group/) at Imperial College London
