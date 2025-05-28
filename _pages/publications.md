@@ -25,8 +25,8 @@ Conference
 Workshop
 -----
 
-* **Wenlong Chen**\*, Wenlin Chen\*, Lapo Rastrelli, Yingzhen Li. Your Image is Secretly the Last Frame of a Pseudo Video. ICLR 2025, DeLTa Workshop [`[link]`](https://arxiv.org/abs/2410.20158)
 * Yohan Jung\*, Hyungi Lee\*, **Wenlong Chen**\*, Thomas Möllenhoff, Yingzhen Li, Juho Lee, Mohammad Emtiyaz Khan. Compact Memory for K-prior Based Continual Learning. AABI 2025, Workshop Track [`[link]`](https://openreview.net/forum?id=vx0USHUYgL)
+* **Wenlong Chen**\*, Wenlin Chen\*, Lapo Rastrelli, Yingzhen Li. Your Image is Secretly the Last Frame of a Pseudo Video. ICLR 2025, DeLTa Workshop [`[link]`](https://arxiv.org/abs/2410.20158)
 
 
 <br>
