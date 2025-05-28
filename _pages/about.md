@@ -25,7 +25,7 @@ An up-to-date list of publications can be found on my [Google Scholar](https://s
 Preprint
 -----
 
-* **Wenlong Chen**\*,  Naoki Kiyohara\*, Harrison Bo Hua Zhu\*, Yingzhen Li. Recurrent Memory for Online Interdomain Gaussian Processes. ICLR 2025, FPI Workshop & AABI 2025, Workshop Track [`[link]`](https://arxiv.org/abs/2502.08736)
+* **Wenlong Chen**\*,  Naoki Kiyohara\*, Harrison Bo Hua Zhu\*, Yingzhen Li. Recurrent Memory for Online Interdomain Gaussian Processes. Preprint 2025 [`[link]`](https://arxiv.org/abs/2502.08736)
 * **Wenlong Chen**\*, Bolian Li\*, Ruqi Zhang, Yingzhen Li. Bayesian Computation in Deep Learning. Preprint 2025 (intended for the 2nd edition of the Handbook of Markov chain Monte Carlo) [`[link]`](https://arxiv.org/abs/2502.18300)
 
 Conference
