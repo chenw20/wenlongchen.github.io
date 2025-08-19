@@ -12,7 +12,7 @@ I am a final-year PhD student in Machine Learning at Imperial College London, su
 
 During my PhD, I mainly work on uncertainty quantification and robustness in large-scale deep sequence models (e.g., Transformers, RNNs), sequential learning, and deep generative models. In general, I am also interested in adaptive methods (e.g., continual learning). I aim to develop reliable algorithms with improved uncertainty calibration, robustness, and adaptation.
 
-From August to December 2024, I worked on continual learning as a research intern in the [Approximate Bayesian Inference team](https://team-approx-bayes.github.io/) at [RIKEN AIP](https://aip.riken.jp) in Tokyo with [Mohammad Emtiyaz Khan](https://emtiyaz.github.io). From June to November 2023, I worked as a research intern in the Responsible AI team at [ByteDance Research](https://www.bytedance.com/) in London, where I researched on machine learning fairness.
+From August to December 2024, I worked on continual learning as a research intern in the [Adaptive Bayesian Intelligence team](https://team-approx-bayes.github.io/) at [RIKEN AIP](https://aip.riken.jp) in Tokyo with [Mohammad Emtiyaz Khan](https://emtiyaz.github.io). From June to November 2023, I worked as a research intern in the Responsible AI team at [ByteDance Research](https://www.bytedance.com/) in London, where I researched on machine learning fairness.
 
 <br>
 
