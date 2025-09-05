@@ -12,6 +12,7 @@ Preprint
 -----
 
 * **Wenlong Chen**\*,  Naoki Kiyohara\*, Harrison Bo Hua Zhu\*, Jacob Curran-Sebastian, Samir Bhatt, Yingzhen Li. Recurrent Memory for Online Interdomain Gaussian Processes. Preprint 2025 [`[link]`](https://arxiv.org/abs/2502.08736)
+* I Shavindra Jayasekera\*, Jacob Si\*, Filippo Valdettaro, **Wenlong Chen**, A Aldo Faisal, Yingzhen Li. Variational Uncertainty Decomposition for In-Context Learning. Preprint 2025 [`[link]`](https://arxiv.org/abs/2509.02327)
 * **Wenlong Chen**\*, Bolian Li\*, Ruqi Zhang, Yingzhen Li. Bayesian Computation in Deep Learning. Preprint 2025 (intended for the 2nd edition of the Handbook of Markov chain Monte Carlo) [`[link]`](https://arxiv.org/abs/2502.18300)
 
 
