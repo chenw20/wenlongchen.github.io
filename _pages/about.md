@@ -18,7 +18,7 @@ From August to December 2024, I worked on continual learning as a research inter
 
 Publications
 ======
-An up-to-date list of publications can be found on my [Google Scholar](https://scholar.google.com/citations?user=UFIDCfQAAAAJ&hl=en) profile.
+A complete list of publications can be found on my [Google Scholar](https://scholar.google.com/citations?user=UFIDCfQAAAAJ&hl=en) profile.
 
 \*equal contribution
 
