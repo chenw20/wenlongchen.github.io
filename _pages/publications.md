@@ -11,7 +11,7 @@ A complete list of publications can be found on my [Google Scholar](https://scho
 Conference
 -----
 
-* **Wenlong Chen**\*,  Naoki Kiyohara\*, Harrison Bo Hua Zhu\*, Jacob Curran-Sebastian, Samir Bhatt, Yingzhen Li. Recurrent Memory for Online Interdomain Gaussian Processes. NeurIPS 2025 [`[link]`](https://arxiv.org/abs/2502.08736) [`[code]`】(https://github.com/harrisonzhu508/HIPPOSVGP/tree/main)
+* **Wenlong Chen**\*,  Naoki Kiyohara\*, Harrison Bo Hua Zhu\*, Jacob Curran-Sebastian, Samir Bhatt, Yingzhen Li. Recurrent Memory for Online Interdomain Gaussian Processes. NeurIPS 2025 [`[link]`](https://arxiv.org/abs/2502.08736) [`[code]`](https://github.com/harrisonzhu508/HIPPOSVGP/tree/main)
 * I. Shavindra Jayasekera\*, Jacob Si\*, Filippo Valdettaro, **Wenlong Chen**, A. Aldo Faisal, Yingzhen Li. Variational Uncertainty Decomposition for In-Context Learning. NeurIPS 2025 [`[link]`](https://arxiv.org/abs/2509.02327) [`[code]`](https://github.com/jacobyhsi/VUD)
 * Yohan Jung, Hyungi Lee, **Wenlong Chen**, Thomas Möllenhoff, Yingzhen Li, Juho Lee, Mohammad Emtiyaz Khan. Compact Memory for Continual Logistic Regression. NeurIPS 2025
 * **Wenlong Chen**\*, Yegor Klochkov\*, Yang Liu. Post-hoc Bias Scoring Is Optimal For Fair Classification. ICLR 2024 (**Spotlight**) [`[link]`](https://arxiv.org/abs/2310.05725) [`[code]`](https://github.com/chenw20/BiasScore)
