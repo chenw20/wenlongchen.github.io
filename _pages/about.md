@@ -16,7 +16,7 @@ From August to December 2024, I worked on continual learning as a research inter
 
 <br>
 
-Publications
+Selected Publications
 ======
 A complete list of publications can be found on my [Google Scholar](https://scholar.google.com/citations?user=UFIDCfQAAAAJ&hl=en) profile.
 
@@ -40,7 +40,7 @@ Workshop
 Book Chapter
 -----
 
-* **Wenlong Chen**\*, Bolian Li\*, Ruqi Zhang, Yingzhen Li. Bayesian Computation in Deep Learning. Preprint 2025 (to appear in the 2nd edition of the Handbook of Markov chain Monte Carlo) [`[link]`](https://arxiv.org/abs/2502.18300)
+* **Wenlong Chen**\*, Bolian Li\*, Ruqi Zhang, Yingzhen Li. Bayesian Computation in Deep Learning. Handbook of Markov Chain Monte Carlo, 2nd Edition (in press, expected 2025/26, refereed chapter) [`[link]`](https://arxiv.org/abs/2502.18300)
   
 <br>
 
