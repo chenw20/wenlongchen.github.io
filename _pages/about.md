@@ -8,12 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a final-year PhD student in Machine Learning at Imperial College London, supervised by [Yingzhen Li](http://yingzhenli.net/home/en/). I obtained my MPhil degree in Machine Learning and Machine Intelligence from the University of Cambridge in 2020, supervised by [José Miguel Hernández-Lobato](https://jmhl.org/). Before that, I graduated with a BSc (Hons) in Mathematics and Statistics from McMaster University. 
-
-During my PhD, I work on uncertainty quantification and robustness in deep neural networks, with a focus on deep sequence models (e.g., Transformers, HiPPOs, S4). In general, I am also interested in adaptive methods (e.g., online/continual learning), and deep generative models (e.g., diffusion models, HVAEs). I aim to develop reliable algorithms with improved uncertainty estimation, robustness, and adaptation.
-
-From August to December 2024, I worked on continual learning as a research intern in the [Adaptive Bayesian Intelligence team](https://team-approx-bayes.github.io/) at [RIKEN AIP](https://aip.riken.jp) in Tokyo with [Mohammad Emtiyaz Khan](https://emtiyaz.github.io). From June to November 2023, I worked as a research intern in the Responsible AI team at [ByteDance Research](https://www.bytedance.com/) in London, where I researched on machine learning fairness.
-
+I am a machine learning research scientist at [Isomorphic Labs](https://www.isomorphiclabs.com/), working on AI for drug discovery. Before joining Iso, I did my PhD, under the supervision of [Yingzhen Li](http://yingzhenli.net/home/), at Imperial College London, where I worked on uncertainty quantification in deep sequence models (e.g., Transformers, HiPPOs, S4), and deep generative models.
 <br>
 
 Selected Publications
