@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a machine learning research scientist at [Isomorphic Labs](https://www.isomorphiclabs.com/), working on AI for drug discovery. Before joining Iso, I did my PhD, under the supervision of [Yingzhen Li](http://yingzhenli.net/home/), at Imperial College London, where I worked on uncertainty quantification in deep sequence models (e.g., Transformers, HiPPOs, S4), and deep generative models.
+I am a machine learning research scientist at [Isomorphic Labs](https://www.isomorphiclabs.com/), working on AI for drug discovery. Before joining Iso, I did my PhD, under the supervision of [Yingzhen Li](http://yingzhenli.net/home/), at Imperial College London, where I worked on Bayesian deep learning for deep sequence models (e.g., Transformers, HiPPOs, S4), and deep generative models.
 <br>
 
 Selected Publications
