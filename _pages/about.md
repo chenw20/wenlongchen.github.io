@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a machine learning research scientist at [Isomorphic Labs](https://www.isomorphiclabs.com/), working on AI for drug discovery. Before joining Iso, I did my PhD, under the supervision of [Yingzhen Li](http://yingzhenli.net/home/), at Imperial College London, where I worked on probabilistic machine learning for deep sequence models (e.g., Transformers, HiPPOs, S4), and deep generative models. Prior to that, I obtained my Bachelor’s and Master’s degree from University of Cambridge (Machine Learning) and McMaster University (Mathematics) in 2020 and 2019, respectively.
+I am a machine learning research scientist at [Isomorphic Labs](https://www.isomorphiclabs.com/), working on AI for drug discovery. Before joining Iso, I did my PhD, under the supervision of [Yingzhen Li](http://yingzhenli.net/home/), at Imperial College London, where I worked on probabilistic machine learning for deep sequence models (e.g., Transformers, HiPPOs, S4), and deep generative models. Prior to that, I obtained my Mphil and BSc (Hons) degree from University of Cambridge (Machine Learning) and McMaster University (Mathematics) in 2020 and 2019, respectively.
 <br>
 
 Selected Publications
