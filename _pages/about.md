@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a machine learning research scientist at [Isomorphic Labs](https://www.isomorphiclabs.com/), working on AI for drug discovery. Before joining Iso, I did my PhD, under the supervision of [Yingzhen Li](http://yingzhenli.net/home/), at Imperial College London, where I worked on probabilistic machine learning for deep sequence models (e.g., Transformers, deep SSMs), continual learning, and deep generative models. Prior to that, I obtained my Mphil and BSc (Hons) degree from University of Cambridge (Machine Learning) and McMaster University (Mathematics) in 2020 and 2019, respectively.
+I am a machine learning research scientist at [Isomorphic Labs](https://www.isomorphiclabs.com/), working on AI for drug discovery. Before joining Iso, I did my PhD, under the supervision of [Yingzhen Li](http://yingzhenli.net/home/), at Imperial College London, where I worked on probabilistic machine learning for deep sequence models (e.g., Transformers, deep SSMs), continual learning, and deep generative models (my [PhD thesis](https://spiral.imperial.ac.uk/entities/publication/3207741a-e12e-4684-92f7-d2a339bfa984)). Prior to that, I obtained my Mphil and BSc (Hons) degree from University of Cambridge (Machine Learning) and McMaster University (Mathematics) in 2020 and 2019, respectively.
 <br>
 
 Selected Publications
@@ -36,6 +36,10 @@ Book Chapter
 -----
 
 * **Wenlong Chen**\*, Bolian Li\*, Ruqi Zhang, Yingzhen Li. Bayesian Computation in Deep Learning. [Handbook of Markov Chain Monte Carlo, 2nd Edition](https://www.routledge.com/Handbook-of-Markov-Chain-Monte-Carlo/Craiu-Vats-Jones-Brooks-Gelman-Meng/p/book/9781032591575) (in press, expected 2025/26, refereed chapter) [`[link]`](https://arxiv.org/abs/2502.18300)
+
+Thesis
+-----
+Probabilistic Learning and Generation in Deep Sequence Models. PhD in Computing, Imperial College London, January 2026. [`[link]`](https://spiral.imperial.ac.uk/entities/publication/3207741a-e12e-4684-92f7-d2a339bfa984)
   
 <br>
 
