@@ -39,7 +39,7 @@ Book Chapter
 
 Thesis
 -----
-* Probabilistic Learning and Generation in Deep Sequence Models. PhD in Computing, Imperial College London, January 2026. [`[link]`](https://spiral.imperial.ac.uk/entities/publication/3207741a-e12e-4684-92f7-d2a339bfa984) [`[pdf]`](files/Chen-W-2026-PhD-Thesis.pdf)
+* Probabilistic Learning and Generation in Deep Sequence Models. PhD in Computing, Imperial College London, January 2026. [`[link]`](https://spiral.imperial.ac.uk/entities/publication/3207741a-e12e-4684-92f7-d2a339bfa984) [`[pdf]`](../files/Chen-W-2026-PhD-Thesis.pdf)
   
 <br>
 
