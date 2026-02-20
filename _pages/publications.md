@@ -28,6 +28,10 @@ Book Chapter
 
 * **Wenlong Chen**\*, Bolian Li\*, Ruqi Zhang, Yingzhen Li. Bayesian Computation in Deep Learning. [Handbook of Markov Chain Monte Carlo, 2nd Edition](https://www.routledge.com/Handbook-of-Markov-Chain-Monte-Carlo/Craiu-Vats-Jones-Brooks-Gelman-Meng/p/book/9781032591575) (in press, expected 2025/26, refereed chapter) [`[link]`](https://arxiv.org/abs/2502.18300)
 
+Thesis
+-----
+Probabilistic Learning and Generation in Deep Sequence Models. PhD in Computing, Imperial College London, January 2026. [`[link]`](https://spiral.imperial.ac.uk/entities/publication/3207741a-e12e-4684-92f7-d2a339bfa984)
+
 
 <br>
 ---
