@@ -30,7 +30,7 @@ Workshop
 Book Chapter
 -----
 
-* **Wenlong Chen**\*, Bolian Li\*, Ruqi Zhang, Yingzhen Li. Bayesian Computation in Deep Learning. [Handbook of Markov Chain Monte Carlo, 2nd Edition](https://github.com/dvats/HandbookOfMCMC) (refereed chapter) [`[link]`](https://arxiv.org/abs/2502.18300)
+* **Wenlong Chen**\*, Bolian Li\*, Ruqi Zhang, Yingzhen Li. Bayesian Computation in Deep Learning. [Handbook of Markov Chain Monte Carlo, 2nd Edition](https://www.taylorfrancis.com/books/edit/10.1201/9781003453420/handbook-markov-chain-monte-carlo-radu-craiu-dootika-vats-galin-jones-steve-brooks-andrew-gelman-xiao-li-meng) (refereed chapter) [`[link]`](https://arxiv.org/abs/2502.18300)
 
 Thesis
 -----
