@@ -17,6 +17,10 @@ A complete list of publications can be found on my [Google Scholar](https://scho
 
 \*equal contribution
 
+Preprint
+-----
+* Naoki Kiyohara\*, Harrison Bo Hua Zhu\*, Zhuo Sun, **Wenlong Chen**, Samir Bhatt, Yingzhen Li. Interdomain Attention: Beyond Token-Level Key-Value Memory. Preprint 2026 [`[link]`](https://openreview.net/forum?id=Xt4I0u9I3I)
+
 Conference
 -----
 
@@ -35,7 +39,7 @@ Workshop
 Book Chapter
 -----
 
-* **Wenlong Chen**\*, Bolian Li\*, Ruqi Zhang, Yingzhen Li. Bayesian Computation in Deep Learning. [Handbook of Markov Chain Monte Carlo, 2nd Edition](https://www.routledge.com/Handbook-of-Markov-Chain-Monte-Carlo/Craiu-Vats-Jones-Brooks-Gelman-Meng/p/book/9781032591575) (in press, expected 2025/26, refereed chapter) [`[link]`](https://arxiv.org/abs/2502.18300)
+* **Wenlong Chen**\*, Bolian Li\*, Ruqi Zhang, Yingzhen Li. Bayesian Computation in Deep Learning. [Handbook of Markov Chain Monte Carlo, 2nd Edition](https://www.routledge.com/Handbook-of-Markov-Chain-Monte-Carlo/Craiu-Vats-Jones-Brooks-Gelman-Meng/p/book/9781032591575) (refereed chapter) [`[link]`](https://arxiv.org/abs/2502.18300)
 
 Thesis
 -----
