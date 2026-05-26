@@ -10,7 +10,7 @@ A complete list of publications can be found on my [Google Scholar](https://scho
 
 Preprint
 -----
-* Naoki Kiyohara\*, Harrison Bo Hua Zhu\*, Zhuo Sun, **Wenlong Chen**, Samir Bhatt, Yingzhen Li. Interdomain Attention: Beyond Token-Level Key-Value Memory. Preprint 2026 [`[link]`](https://openreview.net/forum?id=Xt4I0u9I3I)
+* Naoki Kiyohara\*, Harrison Bo Hua Zhu\*,  Riccardo El Hassanin\*, Zhuo Sun, **Wenlong Chen**, Samir Bhatt, Yingzhen Li. Interdomain Attention: Beyond Token-Level Key-Value Memory. Preprint 2026 [`[link]`](https://arxiv.org/abs/2605.24330)
 
 Conference
 -----
